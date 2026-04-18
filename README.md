@@ -9,9 +9,9 @@
 | Dataset ID | `910298` |
 | Location | Las Vegas |
 | Category | Restaurants |
-| Full dataset size | 39 records |
-| Free sample size | 2 records (5.13%) |
-| Last export | 2026-04-07T16:38:56.490898+00:00 |
+| Full dataset size | 24 records |
+| Free sample size | 2 records (8.33%) |
+| Last export | 2026-04-14T22:31:36.826911+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-las-vegas-nevada-us-sample-910298/releases/download/sample-latest/beamstation_910298_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
