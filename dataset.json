@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Las Vegas, Nevada, US",
-  "export_job_id": "7f4499c7-4ab0-4c55-a0cd-b16975fb7739",
+  "export_job_id": "d254d33e-3b42-4a5c-8060-5cc0c09c344a",
   "github_org": "Beamstation-Datasets",
   "id_short": 910298,
   "location_name": "Las Vegas",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-las-vegas-nevada-us-sample-910298",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/910298/beamstation_910298_restaurants-us-nv_SAMPLE_DIST.csv",
-  "sample_pct": 5.13,
+  "sample_pct": 8.33,
   "sample_records": 2,
   "sample_sha256": "76ac7666bb6b37a6d4446b542e74116ef2b0134dd252c3d646fe132432627a86",
   "sample_size_bytes": 23385,
-  "total_records": 39,
-  "updated_at": "2026-04-07T16:38:56.490898+00:00"
+  "total_records": 24,
+  "updated_at": "2026-04-14T22:31:36.826911+00:00"
 }
