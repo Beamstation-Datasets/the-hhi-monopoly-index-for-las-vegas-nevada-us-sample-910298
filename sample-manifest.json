@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d254d33e-3b42-4a5c-8060-5cc0c09c344a",
+  "export_job_id": "9610e1de-ad0b-4486-9877-2c5af6df848d",
   "id_short": 910298,
-  "published_at": "2026-04-18T07:19:23Z",
+  "published_at": "2026-04-22T19:07:42Z",
   "repo_name": "the-hhi-monopoly-index-for-las-vegas-nevada-us-sample-910298",
   "sample_asset_name": "beamstation_910298_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/910298/beamstation_910298_restaurants-us-nv_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "76ac7666bb6b37a6d4446b542e74116ef2b0134dd252c3d646fe132432627a86",
-  "sample_size_bytes": 23385,
-  "total_records": 24
+  "sample_records": 1,
+  "sample_sha256": "aa05184a9c7098f9f5477e2863aa94458155451e00c73e4fb902e6fbffe8ce20",
+  "sample_size_bytes": 19874,
+  "total_records": 18
 }
